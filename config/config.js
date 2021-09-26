@@ -1,8 +1,8 @@
 const config = {
   title: 'Atlantic LAN 2021',
-  logo: `/static/img/logo-al.png`,
+  logo: '/static/img/logo-al.png',
   description: 'Retrouvez l\'Atlantic LAN très prochainement',
-  metaImagePath: `/static/img/logo-365x200.png`,
+  metaImagePath: '/static/img/logo-365x200.png',
   gaTrackingId: 'UA-128777022-7',
   // mainPartner: {
   //   logo: '/static/img/logo_st_benoit.jpg',
