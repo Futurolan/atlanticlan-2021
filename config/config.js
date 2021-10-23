@@ -3,13 +3,13 @@ const config = {
   logo: '/static/img/logo-al.png',
   description: 'Retrouvez l\'Atlantic LAN très prochainement',
   metaImagePath: '/static/img/logo-365x200.png',
-  gaTrackingId: 'UA-128777022-7',
+  gaTrackingId: 'UA-128777022-3',
   // mainPartner: {
   //   logo: '/static/img/logo_st_benoit.jpg',
   //   url: 'http://www.ville-saint-benoit.fr/'
   // },
   home: {
-    banner: '/static/img/bg-banner-al2019.png',
+    banner: '/static/img/Header_Web.png',
     twitterAccount: 'AtlanticLan17'
   },
   news: {
@@ -24,7 +24,7 @@ const config = {
   },
   tournaments: {
     title: 'Tournois',
-    description: 'Tous les tournois de l\'Atlantic LAN 2019',
+    description: 'Tous les tournois de l\'Atlantic LAN 2021',
     link: '/tournois'
   },
   info: {
@@ -44,7 +44,7 @@ const config = {
   },
   tickets: {
     title: 'Billetterie',
-    description: 'Achetez vos places pour l\'Atlantic LAN 2019',
+    description: 'Achetez vos places pour l\'Atlantic LAN 2021',
     link: '/billetterie',
     pass: {
       title: 'Pass "Manager/Accompagnateur"',
