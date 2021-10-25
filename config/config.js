@@ -57,9 +57,9 @@ const config = {
       button: 'Télécharger l\'autorisation parentale (format pdf)'
     },
     rules: {
-      title: 'Règlement intérieur',
-      text: 'L\'acquisition d\'un ticket entraîne l\'adhésion au règlement intérieur disponible ci-dessous.',
-      button: 'Télécharger le règlement intérieur (format pdf)'
+      title: 'Règlement intérieur et droit à l\'image',
+      text: 'L\'acquisition d\'un ticket entraîne l\'adhésion au règlement intérieur disponible ci-dessous. Merci de remplir l\'autorisation de droit à l\'image vous correspondant.',
+      button: 'Télécharger au format pdf'
     }
   },
   exhibitors: {
