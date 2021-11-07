@@ -47,9 +47,9 @@ const config = {
     description: 'Achetez vos places pour l\'Atlantic LAN 2021',
     link: '/billetterie',
     pass: {
-      title: 'Pass "Manager/Accompagnateur"',
-      text: 'Pour obtenir des pass "Manager/Accompagnateur", les équipes inscrites aux tournois peuvent réaliser une demande via le lien ci-dessous.',
-      button: 'Obtenir un pass'
+      title: 'Location de matériel',
+      text: 'Scoup Esport vous permet de louer directement votre matériel pour éviter de tout transporter !',
+      button: 'Billetterie location'
     },
     minor: {
       title: 'Informations pour les mineurs',
